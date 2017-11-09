@@ -11,7 +11,7 @@ transforming.py: transforming nodes and way tags into csv files
 insert_into_database.py: inserting into SQL database
 
 
-OpenStreetMap Case Study: report in pdf format
+OpenStreetMap Case Study.pdf: report in pdf format
 
 project.ipynb: project in a Jupyter Notebook format
 
